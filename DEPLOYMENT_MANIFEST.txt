@@ -1,0 +1,8 @@
+Render deployment files added:
+- requirements.txt (updated with Flask/gunicorn and ML dependencies)
+- Procfile
+- render.yaml
+- RENDER_DEPLOYMENT.md
+
+Detected model files:
+- models/car_price_model.pkl
